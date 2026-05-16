@@ -1,0 +1,9 @@
+venv
+.env
+__pycache__
+*.pyc
+Artifacts
+logs
+mlruns
+final_model
+saved_models
